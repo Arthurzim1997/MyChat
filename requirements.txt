@@ -1,0 +1,14 @@
+spacy
+requests
+PyPDF2
+moviepy
+whisper
+github
+matplotlib
+Pillow
+nltk
+plotly
+python-docx
+PyQt5
+torch
+ffmpeg
