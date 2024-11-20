@@ -1,0 +1,9 @@
+load_model("base")
+load_model é uma função da biblioteca whisper, responsável por carregar um modelo pré-treinado de reconhecimento de fala.
+O Whisper oferece diferentes versões do modelo, com diferentes tamanhos e precisão:
+"tiny": O modelo mais rápido, mas menos preciso.
+"base": Um modelo balanceado entre desempenho e velocidade.
+"small": Um modelo mais preciso, mas mais lento.
+"medium": Modelo mais preciso, mas mais lento.
+"large": O modelo mais preciso e também o mais lento, adequado para tarefas exigentes de transcrição.
+Quando você usa "base", está escolhendo uma versão de tamanho médio que oferece um bom compromisso entre velocidade e precisão.

@@ -1,0 +1,19 @@
+Formatos de Vídeo Suportados (se houver componente de áudio):
+MP4 (.mp4)
+MOV (.mov)
+AVI (.avi)
+MKA (.mka)
+WebM (.webm)
+AMR (.amr)
+FLV (.flv)
+MKV (.mkv)
+MPEG (.mpeg, .mpg)
+WMV (.wmv)
+3GP (.3gp) - Vídeo para dispositivos móveis
+TS (.ts) - Transport Stream
+
+Formatos de Áudio:
+AIFF (.aif)
+CAF (.caf) - Core Audio Format
+EAC3 (.eac3)
+PCM (.pcm)
